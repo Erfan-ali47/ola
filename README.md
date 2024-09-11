@@ -1,2 +1,1 @@
-[# ola
-haha](https://erfan-ali47.github.io/ola/)
+https://erfan-ali47.github.io/ola/
